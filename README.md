@@ -3,7 +3,7 @@
 **`Hello!! I I'm Austin or people call me AcGaming! 👋`**
 
 ## About Me
-![alt text](/austincabler13/image.png)
+![alt text](image.png)
 
 I Love Playing Video Games Like Rust and FiveM, I would like to become a softwere enginner or Creating my Own Video Games.
  I work at a sports Park called Fast Eddies RN.
