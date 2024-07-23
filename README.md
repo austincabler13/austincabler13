@@ -5,8 +5,8 @@
 ## About Me
 ![alt text](image-1.png)
 
-I Love Playing Video Games Like Rust and FiveM, I would like to become a softwere enginner or Creating my Own Video Games.
- I work at a sports Park called Fast Eddies RN.
+I Love Playing Video Games Like Rust and FiveM, I would like to become a software engineer or creating my own Video Games.
+ I work at a Sports Park called Fast Eddies.
 
 ##
 
