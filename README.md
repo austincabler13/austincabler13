@@ -14,6 +14,22 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 - 🔵Lua: I Know The Beginner level of lua I am going into advanced things of lua.
 - 🕸️HTML: I Know HTML But the reason its in Am Learning is Because I don't really type in html I know it but I use AI Cause am lazy. ⛱️
 
+#
+
+# Sample Code (Never Used AI In this)
+**`YourMom = "YourMom.com"
+YourMom2 = false -- YourMom is false You can change if its true then it will print YourMom.com if its false it will print nothing
+
+function YourMom()
+    if YourMom2 == true then
+        print(YourMom)
+    else
+        print(YourMom)
+    end
+end
+
+-- This is the code it should work but if not please let me know and try and tell me how this is not working so I can improve my coding skills.`**
+
 # 🦥 Languages am Wanting to Learn after Lua
 1. Python
 2. C#
