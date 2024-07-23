@@ -35,3 +35,7 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwer
       <a href="https://github.com/austincabler13?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/austincabler13?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+### 📊 Stats
+
+![AcGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=austincabler13&show_icons=true&theme=gruvbox)
