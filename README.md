@@ -18,18 +18,7 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 
 # Sample Code (Never Used AI In this)
 
-YourMom = "YourMom.com"
-YourMom2 = false -- YourMom is false You can change if its true then it will print YourMom.com if its false it will print nothing
-
-function YourMom3()
-    if YourMom2 == true then
-        print(YourMom)
-    else
-        print(YourMom)
-    end
-end
-
--- This is the code it should work but if not please let me know and try and tell me how this is not working so I can improve my coding skills.
+![alt text](image-3.png)
 
 #
 
