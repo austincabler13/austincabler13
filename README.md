@@ -16,7 +16,7 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 
 #
 
-# Sample Code (Never Used AI In this)
+# Sample Code
 
 ![alt text](image-4.png)
 
