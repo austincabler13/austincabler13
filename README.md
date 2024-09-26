@@ -24,13 +24,6 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 
 #
 
-# 🦥 Languages am Wanting to Learn after Lua
-1. Python
-2. C#
-3. C
-4. C++
-5. and maybe even more in the feature!
-
 # C++
 
 ```
