@@ -12,7 +12,9 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 
 # 🎈 Languages am learning
 - 🔵Lua: I Know The Beginner level of lua I am going into advanced things of lua.
-- 🕸️HTML: I Know HTML But the reason its in Am Learning is Because I don't really type in html I know it but I use AI Cause am lazy. Also I Know CSS⛱️
+- C++
+- C#
+- python
 
 #
 
