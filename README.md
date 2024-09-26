@@ -29,7 +29,28 @@ I Love Playing Video Games Like Rust and FiveM, I would like to become a softwar
 4. C++
 5. and maybe even more in the feature!
 
-#
+# C++
+
+```
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+
+	string input;
+
+	cout << "Whats your Name \n";
+
+	cin >> input;
+
+	cout << "Hello " << input;
+
+	return 0;
+
+}
+```
 
 # Socials
 
