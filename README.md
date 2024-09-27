@@ -6,23 +6,18 @@
 ![alt text](image-1.png)
 
 I Love Playing Video Games Like Rust and FiveM, I would like to become a software engineer or creating my own Video Games.
- I work at a Sports Park called Fast Eddies.
 
 ##
 
 # 🎈 Languages am learning
-- 🔵Lua: I Know The Beginner level of lua I am going into advanced things of lua.
 - C++
 - C#
-- python
+- Python
+- Lua
 
 #
 
 # Sample Code
-
-![alt text](image-4.png)
-
-#
 
 # C++
 
