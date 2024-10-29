@@ -1,6 +1,6 @@
 ## 🔥 AcGaming15
 
-**`Hello!! I I'm Austin or people call me AcGaming! 👋`**
+**`Hello!! I'm Austin or people call me AcGaming! 👋`**
 
 ## About Me
 ![alt text](image-1.png)
@@ -8,6 +8,12 @@
 I Love Playing Video Games Like Rust and FiveM, I would like to become a software engineer or creating my own Video Games.
 
 ##
+
+# 🔨Tools I use
+- AI
+- Deno
+- VsCode
+- And More
 
 # 🎈 Languages am learning
 - C++
@@ -54,6 +60,12 @@ int main() {
       <a href="https://github.com/austincabler13?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/austincabler13?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
+### 🔨Projects
+- AcSecurity
+- 3D-Maker
+- AEngine
+- MFramework
 
 ### 📊 Stats
 
