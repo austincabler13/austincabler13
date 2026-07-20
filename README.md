@@ -3,7 +3,6 @@
 **`Hello, I'm Austin`**
 
 ## About Me
-![alt text](image-1.png)
 
 I Love Playing Video Games.
 
@@ -27,8 +26,8 @@ I Love Playing Video Games.
    </p>
 
 ## 🔨Projects
-- AcSecurity
 - IT Dashboard
+- more
 
 ### 📊 Stats
 
