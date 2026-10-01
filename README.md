@@ -1,34 +1,147 @@
-# AcGaming15
+# 👋 Hey, I'm Austin
 
-**`Hello, I'm Austin`**
+I'm an IT student interested in networking, systems, software development, and learning how computers work from the hardware level up.
 
-## About Me
+- 🎓 IT Student at EHOVE Career Center
+- 🌐 Interested in Networking and Systems Administration
+- 💻 Learning Software Development
+- 🐧 Working with Linux and servers
+- 🔧 Building projects to improve my IT and programming skills
 
-I Love Playing Video Games.
+---
 
-## Tools I use
-- AI
-- VsCode
+# 🔥 My Stats
 
-## Languages am learning
-- Python
-- HTML
+[![GitHub Streak](https://streak-stats.demolab.com?user=austincabler13&theme=dark)](https://git.io/streak-stats)
 
-## Socials
+---
 
- <p align="left">
-      <a href="https://www.youtube.com/@AcGaming1514?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSpxN00eev2Jalb1dXSLEZQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://github.com/austincabler13?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/austincabler13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/austincabler13?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/austincabler13?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+# 🧠 Languages
 
-## 🔨Projects
-- IT Dashboard
-- more
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js" />
+</p>
 
-### 📊 Stats
+---
 
-![AcGaming's GitHub stats](https://github-readme-stats.vercel.app/api?username=austincabler13&show_icons=true&theme=gruvbox)
+# 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,linux,ubuntu,powershell,bash" />
+</p>
+
+---
+
+# ⚙️ Frameworks & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cmake" />
+</p>
+
+---
+
+# 🌐 Networking & Systems
+
+- Cisco Networking
+- Linux Servers
+- Docker
+- Virtual Machines
+- OPNsense
+- DNS
+- TCP/IP
+- Home Lab Administration
+
+---
+
+# 🚀 Featured Projects
+
+## CablerOS
+
+A learning-focused x86-64 operating system project.
+
+**Technologies:**
+
+`C++` `UEFI` `Assembly` `QEMU` `CMake`
+
+[View Repository](YOUR_REPO_LINK_HERE)
+
+---
+
+## Project Name
+
+Short description of what the project does.
+
+**Technologies:**
+
+`C#` `.NET` `Docker`
+
+[View Repository](YOUR_REPO_LINK_HERE)
+
+---
+
+## Project Name
+
+Short description of what the project does.
+
+**Technologies:**
+
+`C++` `Linux`
+
+[View Repository](YOUR_REPO_LINK_HERE)
+
+---
+
+# 🧪 Home Lab
+
+Some technologies I'm currently experimenting with:
+
+- Ubuntu Server
+- Docker
+- Portainer
+- Uptime Kuma
+- OPNsense
+- VMware
+- DNS
+- Minecraft Server Hosting
+- Network Segmentation
+
+---
+
+# 📚 Currently Learning
+
+- Networking
+- C++
+- C#
+- Linux Administration
+- Operating System Development
+- Docker
+- Git & GitHub
+
+---
+
+# 🎯 Goals
+
+- Earn IT certifications
+- Improve my networking skills
+- Build larger software projects
+- Learn more about operating systems
+- Gain experience managing servers
+- Build a strong IT/software portfolio
+
+---
+
+# 📫 Contact
+
+GitHub: [@austincabler13](https://github.com/austincabler13)
+
+<!--
+Add these later if you want:
+
+LinkedIn:
+Portfolio Website:
+Email:
+Discord:
+
+Avoid putting private/personal contact information here unless you're comfortable
+having it publicly visible.
+-->
