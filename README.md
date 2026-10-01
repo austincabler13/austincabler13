@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Austin
+# 👋 Hello, I'm Austin
 
 I'm an IT student interested in networking, systems, software development, and learning how computers work from the hardware level up.
 
@@ -35,7 +35,7 @@ I'm an IT student interested in networking, systems, software development, and l
 # ⚙️ Frameworks & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cmake" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cmake,tailwind" />
 </p>
 
 ---
@@ -67,13 +67,13 @@ A learning-focused x86-64 operating system project.
 
 ---
 
-## Project Name
+## AcSecurity
 
-Short description of what the project does.
+a file checker for developers for security issues.
 
 **Technologies:**
 
-`C#` `.NET` `Docker`
+`C#` `git` `Docker`
 
 [View Repository](YOUR_REPO_LINK_HERE)
 
@@ -126,7 +126,7 @@ Some technologies I'm currently experimenting with:
 - Build larger software projects
 - Learn more about operating systems
 - Gain experience managing servers
-- Build a strong IT/software portfolio
+- Build a strong IT/software career
 
 ---
 
