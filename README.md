@@ -64,7 +64,7 @@ A learning-focused x86-64 operating system project.
 
 `C++` `UEFI` `Assembly` `QEMU` `CMake`
 
-[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
+[View Repository](https://github.com/austincabler13/CablerOS-Public)
 
 ---
 
@@ -76,7 +76,7 @@ a file checker for developers for security issues.
 
 `C#` `git` `Docker`
 
-[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
+[View Repository](https://github.com/austincabler13/AcSecurity/tree/2.0-Development)
 
 ---
 
@@ -87,8 +87,6 @@ A Game Inspired by Star Citizen that's its own Game and Features being developed
 **Technologies:**
 
 `C++` `Blender` `AI Assistance`
-
-[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
 
 ---
 
