@@ -43,6 +43,7 @@ I'm an IT student interested in networking, systems, software development, and l
 # 🌐 Networking & Systems
 
 - Cisco Networking
+- Physical Router
 - Linux Servers
 - Docker
 - Virtual Machines
@@ -63,7 +64,7 @@ A learning-focused x86-64 operating system project.
 
 `C++` `UEFI` `Assembly` `QEMU` `CMake`
 
-[View Repository](YOUR_REPO_LINK_HERE)
+[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
 
 ---
 
@@ -75,19 +76,19 @@ a file checker for developers for security issues.
 
 `C#` `git` `Docker`
 
-[View Repository](YOUR_REPO_LINK_HERE)
+[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
 
 ---
 
-## Project Name
+## FrontierCitizen
 
-Short description of what the project does.
+A Game Inspired by Star Citizen that's its own Game and Features being developed with `C++` using my `Own Engine`
 
 **Technologies:**
 
-`C++` `Linux`
+`C++` `Blender` `AI Assistance`
 
-[View Repository](YOUR_REPO_LINK_HERE)
+[View Repository - OFFLINE](YOUR_REPO_LINK_HERE)
 
 ---
 
@@ -99,7 +100,6 @@ Some technologies I'm currently experimenting with:
 - Docker
 - Portainer
 - Uptime Kuma
-- OPNsense
 - VMware
 - DNS
 - Minecraft Server Hosting
